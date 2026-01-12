@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GH-300Agent_too")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b45ba9594eaf34367b9fda6bb8475688ab7908d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30955ecdf1e94b94202abb52eb2d93453fb0ce9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GH-300Agent_too")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GH-300Agent_too")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
