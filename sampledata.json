@@ -1,0 +1,12 @@
+[
+  {"FirstName":"Alice","LastName":"Johnson","HiringDate":"2019-04-15","Department":"Engineering","Job Title":"Senior Developer"},
+  {"FirstName":"Bob","LastName":"Smith","HiringDate":"2020-06-01","Department":"Marketing","Job Title":"Marketing Manager"},
+  {"FirstName":"Carol","LastName":"Lee","HiringDate":"2018-11-20","Department":"HR","Job Title":"HR Specialist"},
+  {"FirstName":"David","LastName":"Garcia","HiringDate":"2021-02-10","Department":"Engineering","Job Title":"DevOps Engineer"},
+  {"FirstName":"Eve","LastName":"Martinez","HiringDate":"2017-09-05","Department":"Finance","Job Title":"Accountant"},
+  {"FirstName":"Frank","LastName":"Wong","HiringDate":"2022-01-03","Department":"Support","Job Title":"Support Engineer"},
+  {"FirstName":"Grace","LastName":"Kumar","HiringDate":"2016-07-22","Department":"Product","Job Title":"Product Manager"},
+  {"FirstName":"Hank","LastName":"Nguyen","HiringDate":"2015-12-11","Department":"Engineering","Job Title":"Principal Engineer"},
+  {"FirstName":"Ivy","LastName":"Brown","HiringDate":"2023-03-18","Department":"Design","Job Title":"UX Designer"},
+  {"FirstName":"Jack","LastName":"Davis","HiringDate":"2014-05-30","Department":"Legal","Job Title":"Legal Counsel"}
+]
